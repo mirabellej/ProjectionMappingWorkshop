@@ -16,4 +16,5 @@ More TouchDesigner Projection Mapping Tutorials:</br>
 Other Useful TouchDesigner Tutorials:</br>
 <a href="https://www.youtube.com/watch?v=4kyF27fXYDU">Using Perform Mode for Permanent Installations</a></br>
 <a href="https://www.youtube.com/watch?v=M8X_FFB-ikQ">Audio Reactive Particle Cloud</a></br>
-<a href="https://www.youtube.com/watch?v=Z_WfldiO6HI&list=PLFrhecWXVn5862cxJgysq9PYSjLdfNiHz">TouchDesigner Beginner Course</a>
+<a href="https://www.youtube.com/watch?v=Z_WfldiO6HI&list=PLFrhecWXVn5862cxJgysq9PYSjLdfNiHz">TouchDesigner Beginner Course</a></br>
+<a href="https://www.youtube.com/watch?v=XpvKQmQt6Tg&list=PLSovrPWjLMt7TBkWl2cNhONrnYF9qkM2v">VFX with TouchDesigner Playlist</a>
