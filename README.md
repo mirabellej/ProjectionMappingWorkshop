@@ -14,6 +14,7 @@ More TouchDesigner Projection Mapping Tutorials:</br>
 <a href="https://www.youtube.com/watch?v=35MzGn71-jM">Perspective "3D" Mapping and Softedge with Coaction Lab</a></br>
 </br>
 Other Useful TouchDesigner Tutorials:</br>
+<a href="https://www.youtube.com/watch?v=icV5moCR87s">Quickstart Guide</a></br>
 <a href="https://www.youtube.com/watch?v=4kyF27fXYDU">Using Perform Mode for Permanent Installations</a></br>
 <a href="https://www.youtube.com/watch?v=hDHui-lxRw0">Easy Background Video Content</a></br>
 <a href="https://www.youtube.com/watch?v=M8X_FFB-ikQ">Audio Reactive Particle Cloud</a></br>
